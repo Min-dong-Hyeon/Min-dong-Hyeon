@@ -14,14 +14,14 @@ Have a day full of today.
 
 | Step | 준비 | 시작 | 완료 | 내용 |
 | ----- | -- | -- | -- |----------- |
-| One | ☑️ | ☑️ |  |  |
-| Two | ☑️ | ☑️ |  | Autolayout을 통한 기초 UI구성, Scroll View의 이해 |
-| Three | ☑️ | ☑️ |  | TableView, CollectionView, 데이터 전달 방식 |
-| Four | ☑️ | ☑️ |  | Cocoapods & Networking + 솝커톤 전 보충 세미나 |
-| 5주차 |  |  |  |디자인 합동 세미나 |
-| 6주차 |  |  |  |서버 합동 세미나 + 솝커톤  |
-| 7주차 |  |  |  |클론 코딩을 통한 실전 UI 구성, Animation, 통신 보충  |
-| 8주차 |  |  |  |e기획 경선 + 앱잼 전 보충 세미나 + 앱스토어 배포 가이드  |
+| One | ☑️ | ☑️ | ☑️ | HR, HRD, GA 를 그만두기 & 개발 공부 시작 |
+| Two | ☑️ | ☑️ | ☑️ | BootCamp를 통해 개발 공부 할 수 있는 곳 찾기  |
+| Three | ☑️ | ☑️ | ☑️ | 개발 공부 시작 (SBP & CodingON ) |
+| Four | ☑️ | ☑️ | ☑️ | Persnal Project(Django) & Team Project (Node.js)  |
+| Five | ☑️ | ☑️ | ☑️ | 취업을 위한 resume & Portfolio 제작 |
+| Six | ☑️ | ☑️ | ☑️ | 취업하자! |
+| Seven | ☑️ | ☑️ |  | 취업!!!!!!!!!! 했다. 경력 쌓기 시작 |
+| Eight |  |  |  | Middle size startUp compuny let's go  |
 
 <br/><br/>
 
