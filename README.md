@@ -13,7 +13,7 @@ Have a day full of today.
 ##  🍎 iOS 커리큘럼
 
 | Step | 준비 | 시작 | 완료 | 내용 |
-| ----- | -- | -- |----------- |
+| ----- | -- | -- | -- |----------- |
 | One | ☑️ | ☑️ |  |  |
 | Two | ☑️ | ☑️ |  | Autolayout을 통한 기초 UI구성, Scroll View의 이해 |
 | Three | ☑️ | ☑️ |  | TableView, CollectionView, 데이터 전달 방식 |
