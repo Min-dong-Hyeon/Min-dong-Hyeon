@@ -5,9 +5,9 @@
 
 <br/>
 <h3>Joyful Joy 🥳</h3><br/>
-Hello, I'm Juhee (Joy).<br/>
+Hello, I'm Joseph<br/>
 My goal is to give good influence to society.<br/>
-Have a day full of JOY today.
+Have a day full of today.
 
 
 <br/><br/>
