@@ -34,8 +34,9 @@ Have a day full of today.
  
 <h3>💻 Tech Stack for etc.. 💻</h3>
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
- 
 <br/>
 </div>
 
