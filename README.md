@@ -11,7 +11,7 @@ My goal is to give good influence to society.<br/>
 Have a day full of today.
 <br/>
   
-##  🍎 Min's Life 커리큘럼
+🍎 Min's Life 커리큘럼
 <br/>
 
 |Step|준비|시작|완료|내용|
