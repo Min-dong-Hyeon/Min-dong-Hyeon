@@ -10,7 +10,7 @@ My goal is to give good influence to society.<br/>
 Have a day full of today.
 <br/>
   
-##  🍎 iOS 커리큘럼
+##  🍎 Min's Life 커리큘럼
 
 | Step | 준비 | 시작 | 완료 | 내용 |
 | ----- | -- | -- | -- |----------- |
