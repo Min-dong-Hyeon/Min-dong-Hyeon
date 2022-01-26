@@ -20,9 +20,8 @@ Have a day full of today.
 | Four |☑️|☑️|☑️| Persnal Project(Django) & Team Project (Node.js)  |
 | Five |☑️|☑️|☑️| 취업을 위한 resume & Portfolio 제작 |
 | Six |☑️|☑️|☑️| 취업하자! |
-| Seven | | | | 무엇을 공부해야하나..?  |
-| Eight |☑️|☑️| | 취업!!!!!!!!!! 했다. 경력 쌓기 시작 |
-| Nine |  |  |  | Middle size startUp compuny let's go  |
+| Seven |☑️|☑️| | 취업!!!!!!!!!! 했다. 경력 쌓기 시작  |
+| Eight | | | | 취업!!!!!!!!!! 했다. 경력 쌓기 시작 |
 
 <br/><br/>
 
