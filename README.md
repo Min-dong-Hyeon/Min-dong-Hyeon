@@ -56,8 +56,7 @@ Have a day full of today.
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Good%20Bye&fontSize=30&fontColor=gradient)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&text=Good%20Bye&fontSize=30&fontSize=90)
 
 
 
