@@ -1,5 +1,5 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90) -->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20min's%20world&fontSize=90&fontColor=d6ace6)
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20min's%20world&fontSize=90&fontColor=gradient)
 
 
 <div align = "center">
@@ -57,7 +57,7 @@ Have a day full of today.
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
-
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Good%20Bye&fontSize=30&fontColor=gradient)
 
 
 
