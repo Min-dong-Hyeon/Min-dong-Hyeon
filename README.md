@@ -10,8 +10,10 @@ Hello, I'm Joseph<br/>
 My goal is to give good influence to society.<br/>
 Have a day full of today.
 <br/>
-  
+<br/> 
 🍎 Min's Life 커리큘럼
+<br/>
+<br/>
 <br/>
 
 |Step|준비|시작|완료|내용|
