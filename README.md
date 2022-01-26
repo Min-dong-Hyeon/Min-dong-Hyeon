@@ -21,7 +21,7 @@ Have a day full of today.
 | Five |☑️|☑️|☑️| 취업을 위한 resume & Portfolio 제작 |
 | Six |☑️|☑️|☑️| 취업하자! |
 | Seven |☑️|☑️| | 취업!!!!!!!!!! 했다. 경력 쌓기 시작  |
-| Eight | | | | 취업!!!!!!!!!! 했다. 경력 쌓기 시작 |
+| Eight | | | | 다음 단계를 위해 기다림~ |
 
 <br/><br/>
 
