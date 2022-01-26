@@ -12,16 +12,16 @@ Have a day full of today.
   
 ##  🍎 Min's Life 커리큘럼
 
-| Step | 준비 | 시작 | 완료 | 내용 |
-| ----- | -- | -- | -- |----------- |
+|Step|준비|시작|완료|내용|
+|-----|--|--|--|-----------|
 | One |☑️|☑️|☑️| HR, HRD, GA 를 그만두기 & 개발 공부 시작 |
-| Two | ☑️ | ☑️ | ☑️ | BootCamp를 통해 개발 공부 할 수 있는 곳 찾기  |
-| Three | ☑️ | ☑️ | ☑️ | 개발 공부 시작 (SBP & CodingON ) |
-| Four | ☑️ | ☑️ | ☑️ | Persnal Project(Django) & Team Project (Node.js)  |
-| Five | ☑️ | ☑️ | ☑️ | 취업을 위한 resume & Portfolio 제작 |
-| Six | ☑️ | ☑️ | ☑️ | 취업하자! |
-| Seven |  |  |  | 무엇을 공부해야하나..?  |
-| Eight | ☑️ | ☑️ |  | 취업!!!!!!!!!! 했다. 경력 쌓기 시작 |
+| Two |☑️|☑️|☑️| BootCamp를 통해 개발 공부 할 수 있는 곳 찾기  |
+| Three |☑️|☑️|☑️| 개발 공부 시작 (SBP & CodingON ) |
+| Four |☑️|☑️|☑️| Persnal Project(Django) & Team Project (Node.js)  |
+| Five |☑️|☑️|☑️| 취업을 위한 resume & Portfolio 제작 |
+| Six |☑️|☑️|☑️| 취업하자! |
+| Seven | | | | 무엇을 공부해야하나..?  |
+| Eight |☑️|☑️| | 취업!!!!!!!!!! 했다. 경력 쌓기 시작 |
 | Nine |  |  |  | Middle size startUp compuny let's go  |
 
 <br/><br/>
