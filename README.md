@@ -5,26 +5,26 @@
 <div align = "center">
 
 <br/>
-<h3>Joyful Joy 🥳</h3><br/>
+<h3>Joyful</h3><br/>
 Hello, I'm Joseph<br/>
 My goal is to give good influence to society.<br/>
 Have a day full of today.
 <br/>
 <br/> 
-🍎 Min's Life 커리큘럼
+🧑🏻‍💻 Min's Life 커리큘럼
 <br/>
 <br/>
 <br/>
 
 |Step|준비|시작|완료|내용|
 |-----|--|--|--|-----------|
-| One |☑️|☑️|☑️| HR, HRD, GA 를 그만두기 & 개발 공부 시작 |
-| Two |☑️|☑️|☑️| BootCamp를 통해 개발 공부 할 수 있는 곳 찾기  |
-| Three |☑️|☑️|☑️| 개발 공부 시작 (SBP & CodingON ) |
-| Four |☑️|☑️|☑️| Persnal Project(Django) & Team Project (Node.js)  |
-| Five |☑️|☑️|☑️| 취업을 위한 resume & Portfolio 제작 |
-| Six |☑️|☑️|☑️| 취업하자! |
-| Seven |☑️|☑️| | 취업!!!!!!!!!! 했다. 경력 쌓기 시작  |
+| One |☑️|☑️|☑️| 🧑🏻‍💻 HR, HRD, GA 를 그만두기 & 개발 공부 시작 |
+| Two |☑️|☑️|☑️| ⛺ BootCamp를 통해 개발 공부 할 수 있는 곳 찾기  |
+| Three |☑️|☑️|☑️| 🔥 개발 공부 시작 (SBP & CodingON ) |
+| Four |☑️|☑️|☑️| ✨ Persnal Project(Django) & Team Project (Node.js)  |
+| Five |☑️|☑️|☑️| 📝 취업을 위한 resume & Portfolio 제작 |
+| Six |☑️|☑️|☑️| ✔️ 취업하자! |
+| Seven |☑️|☑️| | 💡 취업!!!!!!!!!! 했다. 경력 쌓기 시작  |
 | Eight | | | | 다음 단계를 위해 기다림~ |
 
 <br/>
