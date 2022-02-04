@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20min's%20world&fontSize=90&fontColor=gradient)
 
 
-<div align = "center">
+<div align = "left">
 
 <br/>
 <h3>Joyful</h3><br/>
