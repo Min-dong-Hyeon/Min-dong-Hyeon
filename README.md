@@ -50,8 +50,8 @@ Front-End stack💻             |  Front-end stack💻 |  Etc..💻
 
 ### My Project
 
-Django 를 이용한 'Min's Trable' 만들기
-Node.js 를 이용한 'chat' 프로그램 만들기
+<h4>Django 를 이용한 'Min's Trable' 만들기</h4>
+<h4>Node.js 를 이용한 'chat' 프로그램 만들기</h4>
 
   </div>  
 <br/>
