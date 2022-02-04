@@ -36,13 +36,11 @@
 
 ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
-### 깃이 어떤 역할을 하는건가요?
+### My Project
 
-- 소스 병합 (merge, rebase)
-- 소스 리비전 관리 (reset, commit, branch)
-- 소스 릴리즈 (push)
-- 소스 태깅 (tag)
-- 소스 변경사항 검토 (diff, log)
+- Django 를 이용한 'Min's Trable' 만들기
+- Node.js 를 이용한 'chat' 프로그램 만들기
+
   
 ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
