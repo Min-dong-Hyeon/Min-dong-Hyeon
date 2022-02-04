@@ -34,6 +34,19 @@ Have a day full of today.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMin-dong-Hyeon%2FMin-dong-Hyeon.git&count_bg=%23BBD0AB&title_bg=%235EC679&icon=bilibili.svg&icon_color=%23E7E7E7&title=hi%7E&edge_flat=true)](https://hits.seeyoufarm.com)
   
 ﹏﹏﹏﹏﹏﹏﹏
+  name: Profile Stack
+
+on:
+    push:
+      branches:
+      	- main
+
+jobs:
+    profile_stack:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - uses: Matt-Gleich/profile_stack@master
 
 <br/><br/>
  
