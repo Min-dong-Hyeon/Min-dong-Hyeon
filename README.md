@@ -26,11 +26,13 @@
 | Seven |☑️|☑️| | 💡 취업!!!!!!!!!! 했다. 경력 쌓기 시작  |
 | Eight | | | | 다음 단계를 위해 기다림~ |
 
+<br/>
+<br/>
+<br/>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMin-dong-Hyeon%2FMin-dong-Hyeon.git&count_bg=%23BBD0AB&title_bg=%235EC679&icon=bilibili.svg&icon_color=%23E7E7E7&title=hi%7E&edge_flat=true)](https://hits.seeyoufarm.com)
-  </div>
-<br/>
-<br/>
+
+</div>
 
 ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
